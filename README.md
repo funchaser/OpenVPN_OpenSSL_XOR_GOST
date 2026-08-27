@@ -16,4 +16,4 @@ xor-patched OpenVPN версия 2.6.21 для windows (dco-enabled):
 
 xor-patched OpenVPN версия 2.6.21 для Android (GOST - patched & enabled)
 
-для проверки ГОСТ можно использовать конфиги из ghbvthjd, только добавить в клиенте строчку: providers default legacy gostprov
+для проверки ГОСТ можно использовать конфиги из примеров, только добавить в клиенте строчку: providers default legacy gostprov
