@@ -27,7 +27,7 @@ https://github.com/funchaser/OpenVPN_OpenSSL_XOR_GOST/releases/download/collecti
 
 Xor-patched OpenVPN version 2.6.21 for Android (GOST - patched & enabled)
 
-To check GOST, you can use the configs from the examples, but add the following line to the client: providers default legacy gostprov
+To check GOST, you can use the configs from the examples, but add the following line to the client: <b>providers default legacy gostprov</b>
 
 Если у кого-то есть желание протестировать:
 
@@ -44,4 +44,4 @@ xor-patched OpenVPN версия 2.6.21 для windows (dco-enabled):
 
 xor-patched OpenVPN версия 2.6.21 для Android (GOST - patched & enabled)
 
-для проверки ГОСТ можно использовать конфиги из примеров, только добавить в клиенте строчку: providers default legacy gostprov
+для проверки ГОСТ можно использовать конфиги из примеров, только добавить в клиенте строчку: <b>providers default legacy gostprov</b>
