@@ -7,19 +7,24 @@ I'm attaching the patch version from Claude.ai + compiled versions of openvpn-2.
 
 https://github.com/user-attachments/files/31514445/lib.modules.updates.drivers.net.ovpn-dco.zip
 https://github.com/user-attachments/files/31514444/dco-xor-files.zip
+
 DCO patches and driver for Linux
 
 https://github.com/user-attachments/files/31514443/openvpn-2.6.21.zip
+
 xor-patched OpenVPN version 2.6.21 for Linux (dco-enabled):
 
 https://github.com/user-attachments/files/31514438/openvpn-2.6.21-mingw.zip
+
 xor-patched OpenVPN version 2.6.21 for Windows (dco-enabled):
 
 https://github.com/user-attachments/files/31514427/openssl-3.6.3.zip
 https://github.com/user-attachments/files/31514418/openssl-3.6.3-mingw.zip
+
 A small bonus for those who need it - openssl v3.6.3 for Linux & Windows GOST patched & enabled; instructions, sample client and server configs, sample log.
 
 https://github.com/funchaser/OpenVPN_OpenSSL_XOR_GOST/releases/download/collection/main-ui-ovpn23-universal-release.apk
+
 Xor-patched OpenVPN version 2.6.21 for Android (GOST - patched & enabled)
 
 To check GOST, you can use the configs from the examples, but add the following line to the client: providers default legacy gostprov
