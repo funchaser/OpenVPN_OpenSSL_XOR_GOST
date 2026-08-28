@@ -1,5 +1,6 @@
 # OpenVPN_OpenSSL_XOR_GOST
-Collection of patches for OpenVPN and OpenSSL
+
+<b>Collection of patches (Linux,Windows,Android) for OpenVPN (xor-patched) and OpenSSL with working gost-engine</b>
 
 If anyone wants to test:
 
